@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\bin\Debug\net8.0\exercise02.exe
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\bin\Debug\net8.0\exercise02.deps.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\bin\Debug\net8.0\exercise02.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\bin\Debug\net8.0\exercise02.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\bin\Debug\net8.0\exercise02.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\refint\exercise02.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\exercise02.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\exercise02\obj\Debug\net8.0\ref\exercise02.dll
