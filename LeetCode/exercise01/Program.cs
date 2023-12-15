@@ -7,7 +7,7 @@ class Program
         public int[] nums = [2, 7, 11, 5];
         public int target = 9;
 
-        public int[] TwoSum(int[] nums, int target)
+        public int[]? TwoSum(int[] nums, int target)
         {
             Dictionary<int, int> map = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
