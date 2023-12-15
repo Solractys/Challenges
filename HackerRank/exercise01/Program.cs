@@ -1,7 +1,11 @@
 ﻿int n = 9;
-string sign = "#";
-string space = " ";
-        for (int i = 0; i < n; i++) {
-            
-            Console.WriteLine(space + sign);
+        for (int i = 1; i <= n; i++) { 
+            for (int b = 0; b < i; b++) {
+                Console.Write("#");
+            }
+            for (int a = 0; a < n - i; a++) {
+                Console.Write(" ");
+            }
+            if (i == n) {}
+        Console.WriteLine();
         }
