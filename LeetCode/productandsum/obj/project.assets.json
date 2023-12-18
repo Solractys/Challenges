@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
-      "projectName": "exercise01",
-      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
+      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\productandsum\\productandsum.csproj",
+      "projectName": "productandsum",
+      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\productandsum\\productandsum.csproj",
       "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\obj\\",
+      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\productandsum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config"
