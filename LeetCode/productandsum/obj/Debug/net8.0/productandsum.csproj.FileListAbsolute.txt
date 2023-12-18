@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\bin\Debug\net8.0\productandsum.exe
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\bin\Debug\net8.0\productandsum.deps.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\bin\Debug\net8.0\productandsum.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\bin\Debug\net8.0\productandsum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\bin\Debug\net8.0\productandsum.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\refint\productandsum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\productandsum.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\productandsum\obj\Debug\net8.0\ref\productandsum.dll
