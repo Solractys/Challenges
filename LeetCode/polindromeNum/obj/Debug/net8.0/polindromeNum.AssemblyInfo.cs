@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("polindromeNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a655c69d89e0b5ca664c75b9535fbadb6b78a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2aadab94130cb8deb7faad8bf3c11f77e78691a")]
 [assembly: System.Reflection.AssemblyProductAttribute("polindromeNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polindromeNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
