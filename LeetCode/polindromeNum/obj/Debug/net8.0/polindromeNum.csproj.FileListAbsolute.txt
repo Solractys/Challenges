@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\bin\Debug\net8.0\polindromeNum.exe
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\bin\Debug\net8.0\polindromeNum.deps.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\bin\Debug\net8.0\polindromeNum.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\bin\Debug\net8.0\polindromeNum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\bin\Debug\net8.0\polindromeNum.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\refint\polindromeNum.dll
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.pdb
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\polindromeNum.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\Challenges\Challenges\LeetCode\polindromeNum\obj\Debug\net8.0\ref\polindromeNum.dll
