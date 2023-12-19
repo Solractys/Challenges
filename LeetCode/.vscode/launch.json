@@ -1,6 +1,12 @@
 {
   "configurations": [
     {
+      "name": "C#: exercise06 Debug",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/<relative-path-to-project-folder>exercise06.csproj"
+    },
+    {
       "name": "C#: exercise06",
       "type": "dotnet",
       "request": "launch",
