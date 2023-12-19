@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj": {}
+    "c:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj": {
+    "c:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
+        "projectUniqueName": "c:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
         "projectName": "exercise01",
-        "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
+        "projectPath": "c:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\exercise01.csproj",
         "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\obj\\",
+        "outputPath": "c:\\Users\\Dezz\\Documents\\GitHub\\Challenges\\Challenges\\LeetCode\\exercise01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config"
