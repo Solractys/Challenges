@@ -1,25 +1,27 @@
-﻿class Program
+﻿using System.Diagnostics.Contracts;
+
+class Program
 {
     static void Main()
     {
-        string s = "0110101";
+        string s = "011101";
         string[] parts = new string[s.Length + 1];
+
+        int maxSum = 0;
 
         for (int i = 0; i <= s.Length; i++)
         {
-            parts[i] = s.Substring(0, i) + "," + s.Substring(i);
+            // parts[i] = s.Substring(0, i) + "," + s.Substring(i);
 
-            int zerosCountt = parts[i].Split(",")[0].Count(c => c == '0');
-            int onesCountt = parts[i].Split(",")[1].Count(c => c == '1');
-            
+            int zerosCount = s.Substring(0, i).Count(c => c == '0');
+            int onesCount = s.Substring(i).Count(c => c == '1');
+            int currentSum = zerosCount + onesCount;
 
+            if (currentSum > maxSum)
+            {
+                maxSum = currentSum;
+            }
         }
-
-    // Exibir as partes armazenadas na array
-
-        foreach (string part in parts)
-        {
-            Console.WriteLine(part);
-        }
+        Console.WriteLine( maxSum);
     }
 }
